@@ -1,0 +1,9 @@
+pandas
+sentence-transformers
+joblib
+scikit-learn
+python-dotenv
+groq
+fastAPI
+uvicorn
+
